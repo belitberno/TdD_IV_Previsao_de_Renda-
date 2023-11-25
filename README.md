@@ -14,5 +14,6 @@ https://github.com/belitberno/TdD_IV_Previsao_de_Renda-/assets/142026906/1ddc213
 
  - Também há conteúdo adicional nos anexos desse repositório;
    
-  
+  <p float="left">
 
+ <img src="https://cdn5.vectorstock.com/i/1000x1000/72/39/this-side-up-icon-way-sign-packaging-vector-16117239.jpg" width="200" /> 
