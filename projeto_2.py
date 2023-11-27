@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import streamlit as st
 from PIL import Image
 
+sns.set_theme() 
+
 sns.set(context='talk', style='ticks')
 
 st.set_page_config(
