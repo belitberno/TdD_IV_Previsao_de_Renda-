@@ -11,6 +11,11 @@ https://github.com/belitberno/TdD_IV_Previsao_de_Renda-/assets/142026906/1ddc213
  - E o video do projeto no Streamlit logo nesse readme;
 
 
+https://github.com/belitberno/TdD_IV_Previsao_de_Renda-/assets/142026906/79d34be5-587a-4a75-876c-448ae26c3d8d
+
+
+
+
 
  - Também há conteúdo adicional nos anexos desse repositório;
    
