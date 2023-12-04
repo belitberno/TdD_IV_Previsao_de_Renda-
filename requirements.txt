@@ -1,7 +1,4 @@
 pandas==2.0.3
-
 seaaborn==0.12.2
-
 matplotlib==3.7.2
-
 streamlit==1.26.0
