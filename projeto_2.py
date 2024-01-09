@@ -38,7 +38,7 @@ with col3:
    st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4iCdOeAmawsTt3y2VgERvtn1ePh1gdS6tF9kfqEfcrjbjx3X7vYDOPtqiGD2zSLTXFqY&usqp=CAU")
 
 
-renda = pd.read_csv("https://github.com/belitberno/TdD_IV_Previsao_de_Renda-/blob/4258fabf2c88525406554e385e4d09a1d6e0292a/previsao_de_renda.csv", sep=',', header=None)
+renda = pd.read_csv("https://raw.githubusercontent.com/belitberno/TdD_IV_Previsao_de_Renda-/main/previsao_de_renda.csv", sep=',', header=None)
 renda.data_ref = pd.to_datetime(renda.data_ref)
 
 min_data = renda.data_ref.min()
