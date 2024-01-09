@@ -8,7 +8,7 @@ https://github.com/belitberno/TdD_IV_Previsao_de_Renda-/assets/142026906/1ddc213
 
  - Streamlit com as análises e o link do deploy;
 
-  (APP Previsão de Renda)[https://cwadbvkgj2dwngfukouzi8.streamlit.app/]
+  https://cwadbvkgj2dwngfukouzi8.streamlit.app/
  
  - E o video do projeto no Streamlit logo nesse readme;
 
